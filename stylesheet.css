@@ -1,0 +1,122 @@
+.header {
+    border: 2px solid black;
+    margin-top: 50px;
+    background-color: ivory;
+}
+
+.col-md-3 {
+    border: 2px solid black;
+}
+
+.col-md-9 {
+    border: 2px solid black;
+}
+
+.footer {
+    border: 2px solid black;
+    margin-top: 25px;
+    background-color: ivory;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: none;
+}
+#leftpanel li {
+    background-color: black;
+    box-shadow: 1px 1px 2px 2px lightgrey;
+    padding: 12px 12px 12px 12px;
+    margin: 20px 25px 20px 15px;
+    color: ivory;
+}
+
+#pInfo {
+    display:none;
+}
+#skills {
+    display:none;
+}
+
+#wExp {
+    display:none;
+}
+
+#edu {
+    display:none;
+}
+
+#ref {
+    display:none;
+}
+
+#uop {
+    display: none;
+}
+
+#rest {
+    display: none;
+}
+
+#bsit {
+    display: none;
+}
+
+#jumbo {
+    background-image: url(https://c1.staticflickr.com/1/101/299142843_fa166ad24e_z.jpg?zz=1);
+    border-bottom: 2px solid black;
+}
+
+#leftpanel {
+    background-color: ivory;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+#left {
+    background-color: ivory;
+}
+
+body {
+    background-image: url(http://fc04.deviantart.net/fs70/i/2012/262/a/e/sky_stock__06_by_mayshing-d5fa6lu.jpg);
+    background-size: 100%;
+}
+#content {
+    background-color: black;
+    color: ivory;
+}
+
+#title {
+    font-family: 'Indie Flower', cursive;
+    font-size: 64px;
+    font-weight: bold;
+}
+
+#subtext {
+    font-family: 'Indie Flower', cursive;
+    font-size: 14px;
+}
+
+#subtitle {
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px;
+    font-weight: bold;
+    border-bottom: 1px solid ivory;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+#wtitle {
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: 'Indie Flower', cursive;
+}
